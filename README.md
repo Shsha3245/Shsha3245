@@ -1,124 +1,134 @@
-<!-- HEADER BANNER & BADGES -->
 <div align="center">
 
-  # 👋 Hi, I'm Seçkin Dalgıç — aka `Seçkin.AI`
-  ### **AI-Enhanced Developer • Automation Builder • Real-Time Systems Engineer**
+# 👋 Merhaba, ben Shsha3245
 
-  <p align="center">
-    <a href="mailto:seckindalgic9@gmail.com"><img src="https://img.shields.io/badge/Email-seckindalgic9%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/seckindalgic"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00b4d8?style=for-the-badge" alt="Status" />
-  </p>
+### Yapay zekâ, otomasyon, web ürünleri ve blokzincir tabanlı deneyimler geliştiren bir yazılımcı
+
+<p>
+  <a href="https://github.com/Shsha3245?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projelerim-181717?style=for-the-badge&logo=github" alt="GitHub repositories" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Product%20Engineering-6f42c1?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-Real--world%20Projects-0ea5e9?style=for-the-badge" alt="Building real-world projects" />
+</p>
 
 </div>
 
 ---
 
-### 🧠 About Me — *AI Persona Mode*
+## 🧠 Hakkımda
 
-* ⚡ **What I Do:** I develop bots, algorithmic trading tools, real-time café systems, and automation assistants.
-* 🧩 **Mindset:** Product-focused — from *Idea → Design → Backend → UI → Release*.
-* 🎯 **Approach:** I prefer learning by building actual, production-ready products rather than relying solely on theory.
-* 🌐 **Status:** Freelance-friendly tech stack & actively building scalable solutions.
+Fikri çalışan bir ürüne dönüştürmeyi seven, farklı alanlarda deneyler yapan bir geliştiriciyim. Projelerimde özellikle **yapay zekâ**, **otomasyon**, **ödeme sistemleri**, **e-ticaret**, **bilgisayarlı görü** ve **kullanıcı odaklı web arayüzleri** üzerine çalışıyorum.
 
----
+Sadece demo üretmek yerine; çalışan akışları, anlaşılır kullanıcı deneyimini ve sistemlerin sınırlarını açıkça göstermeyi önemsiyorum. Yeni teknolojileri öğrenmenin en iyi yolunun gerçek problemler çözmek olduğuna inanıyorum.
 
-### 🚀 Tech Stack & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  
-  <br />
-
-  <!-- Frameworks & Web -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-
-  <br />
-
-  <!-- Database & Infrastructure -->
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
-</p>
+- 🤖 Yapay zekâ destekli iş ve karar destek araçları geliştiriyorum.
+- 💳 Stellar üzerinde doğrulanabilir ödeme akışlarını araştırıyorum.
+- 🛍️ E-ticaret ve yönetim panelleri tasarlıyorum.
+- 👁️ Python ve OpenCV ile bilgisayarlı görü projeleri deniyorum.
+- 🗣️ NLP, sesli asistanlar ve masaüstü otomasyonlarıyla ilgileniyorum.
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Öne Çıkan Projeler
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⭐ KafeXP</h3>
-      <p><b>Real-Time Loyalty & XP System</b></p>
-      <p>QR tabanlı XP sistemi ile müşteri sadakati, hızlı QR okutma ve POS entegrasyonu sağlayan gerçek zamanlı kafe yönetim platformu.</p>
-      <p>
-        <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>SQL Server</code> <code>WebSocket</code>
-      </p>
+      <h3>💳 <a href="https://github.com/Shsha3245/one-click-checkout-rail">One-Click Checkout Rail</a></h3>
+      <p>Stellar Testnet üzerinde gerçek ve doğrulanabilir XLM ödeme akışları sunan checkout MVP'si. Mock, Testnet ve Live durumlarını birbirinden açıkça ayırır.</p>
+      <p><code>TypeScript</code> <code>Stellar</code> <code>Soroban</code> <code>Next.js</code> <code>Express</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⭐ NFTMarketTR</h3>
-      <p><b>Local NFT Marketplace</b></p>
-      <p>Düşük komisyon ve yüksek işlem hızıyla NFT üretme, listeleme, düzenleme ve ticaret altyapısı.</p>
-      <p>
-        <code>FastAPI</code> <code>Next.js</code> <code>SQL Server</code> <code>Web3</code>
-      </p>
+      <h3>🏆 <a href="https://github.com/Shsha3245/StellarProHackathon">StellarProHackathon</a></h3>
+      <p>Stellar ekosistemi üzerine geliştirilmiş hackathon projesi ve ürün prototipleri. Web3 tabanlı finansal kullanım senaryolarını keşfetmeye odaklanır.</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>Web3</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⭐ Forex Smart Bot</h3>
-      <p><b>AI Trading Assistant</b></p>
-      <p>MACD, RSI ve Trend Logic algoritmalarıyla piyasa hareketlerini anlık analiz eden yapay zeka destekli al-sat asistanı.</p>
-      <p>
-        <code>Python</code> <code>SQL</code> <code>Trading Algorithms</code> <code>AI</code>
-      </p>
+      <h3>🤖 <a href="https://github.com/Shsha3245/aiAgency">aiAgency</a></h3>
+      <p>Departman verilerini bir araya getirip yerel Ollama modeliyle yönetici özetleri ve operasyon raporları oluşturan yapay zekâ destekli yönetim sistemi.</p>
+      <p><code>Python</code> <code>Ollama</code> <code>CSV</code> <code>Desktop UI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⭐ TrendBot</h3>
-      <p><b>Market & Dropshipping Analyzer</b></p>
-      <p>Google Trends, TikTok, Instagram ve AliExpress verilerini otomatik toplayıp analiz eden e-ticaret istihbarat aracı.</p>
-      <p>
-        <code>Python</code> <code>SQL</code> <code>Web Scraping</code> <code>APIs</code>
-      </p>
+      <h3>🛒 <a href="https://github.com/Shsha3245/Sevimler">Sevimler</a></h3>
+      <p>Türkçe bir kuruyemiş markası için geliştirilen modern e-ticaret platformu. Sepet, JWT kimlik doğrulama, stok güvenliği ve yönetim paneli içerir.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>JWT</code></p>
+      <p><a href="https://sevimler.vercel.app">🌐 Canlı demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://github.com/Shsha3245/Virtual-Assistant-project">Virtual Assistant</a></h3>
+      <p>NLP ile kullanıcı niyetlerini yorumlayan, yanıtları seslendiren ve konuşma kayıtlarını SQLite üzerinde saklayan Python tabanlı asistan.</p>
+      <p><code>Python</code> <code>NLP</code> <code>NLTK</code> <code>SQLite</code> <code>pyttsx3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/Shsha3245/face-recognition-demo">Face Detection Demo</a></h3>
+      <p>Web kameradan gerçek zamanlı görüntü alıp OpenCV Haar Cascade ile yüz tespiti yapan hafif ve anlaşılır bir bilgisayarlı görü uygulaması.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>Computer Vision</code></p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>🖥️ Desktop Systems (C# / .NET)</b></summary>
-  <br/>
-  <ul>
-    <li><b>Stok Takip Sistemi:</b> Anlık envanter ve kritik stok seviye uyarıları.</li>
-    <li><b>Cafe Sipariş Sistemi:</b> Masa takibi ve hızlı adisyon/otomasyon modülü.</li>
-    <li><b>İşletme Yönetimi:</b> Gelir-gider ve personel takip paneli.</li>
-  </ul>
-  <p><i>Tech Stack: C#, .NET, Microsoft SQL Server</i></p>
-</details>
+### 🔎 Diğer Çalışmalarım
+
+- **[SAYIM](https://github.com/Shsha3245/SAYIM)** — TypeScript tabanlı web ürünü; [canlı versiyonu](https://sayim-plum.vercel.app) mevcut.
+- **[stellar-white-belt](https://github.com/Shsha3245/stellar-white-belt)** — Stellar ekosistemini öğrenmeye ve uygulamalı geliştirmeye yönelik çalışma.
+- **[BTK2026](https://github.com/Shsha3245/BTK2026)** — TypeScript tabanlı eğitim/uygulama projesi.
+- **[UniversityAnalysis](https://github.com/Shsha3245/UniversityAnalysis)** — Üniversite verilerini analiz etmeye yönelik proje.
+- **[Hackathon](https://github.com/Shsha3245/Hackathon)** — Hackathon odaklı web uygulaması çalışması.
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seckindalgic&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Seçkin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seckindalgic&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,nodejs,tailwind,opencv,sqlite,postgres,mysql,git,github,vercel" alt="Technology stack" />
+
+</div>
+
+### Odak Alanlarım
+
+```text
+Yapay Zekâ & NLP       ████████████████████  Ollama · NLTK · scikit-learn
+Backend & API          ███████████████████░  Python · FastAPI · Node.js
+Frontend & Ürün        ██████████████████░░  React · Next.js · TypeScript
+Veri & Otomasyon       ████████████████░░░░  SQL · CSV · SQLite · Web scraping
+Web3 & Ödemeler        ██████████████░░░░░░  Stellar · Soroban · Testnet
+Bilgisayarlı Görü      ████████████░░░░░░░░  Python · OpenCV
+```
+
+---
+
+## 📌 Geliştirme Yaklaşımım
+
+> **Fikir → Prototip → Çalışan ürün → Geri bildirim → İyileştirme**
+
+- Gerçek kullanım senaryolarını öncelemeye çalışırım.
+- Mock ve gerçek entegrasyon sınırlarını mümkün olduğunca açık tutarım.
+- Kullanıcı deneyimi kadar backend güvenilirliğine de önem veririm.
+- Öğrenirken küçük, ölçülebilir ve gösterilebilir projeler üretirim.
+
+---
+
+## 📊 GitHub Aktivitesi
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shsha3245&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shsha3245&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shsha3245&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
 
 <div align="center">
-  
-  📬 **Email:** [seckindalgic9@gmail.com](mailto:seckindalgic9@gmail.com) • 🌐 **Portfolio:** *Coming Soon — Seçkin.AI*
-  
-  <br />
-  
-  <sub><i>Designed with a focus on real-time systems & product engineering.</i></sub>
+
+### 🚧 Şu anda öğreniyor, üretiyor ve yeni fikirleri test ediyorum.
+
+<a href="https://github.com/Shsha3245?tab=repositories">Tüm projelerime göz at →</a>
+
 </div>
