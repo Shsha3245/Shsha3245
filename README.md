@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Merhaba, ben Shsha3245
+# 👋 Hi, I'm Shsha3245
 
-### Yapay zekâ, otomasyon, web ürünleri ve blokzincir tabanlı deneyimler geliştiren bir yazılımcı
+### A developer building AI, automation, web products, and blockchain-based experiences
 
 <p>
-  <a href="https://github.com/Shsha3245?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projelerim-181717?style=for-the-badge&logo=github" alt="GitHub repositories" /></a>
+  <a href="https://github.com/Shsha3245?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub repositories" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Product%20Engineering-6f42c1?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Building-Real--world%20Projects-0ea5e9?style=for-the-badge" alt="Building real-world projects" />
 </p>
@@ -13,74 +13,73 @@
 </div>
 
 ---
+## 🧠 About Me
 
-## 🧠 Hakkımda
+I'm a developer who enjoys turning ideas into working products and experimenting across different fields. My projects especially focus on **artificial intelligence**, **automation**, **payment systems**, **e-commerce**, and **blockchain**.
 
-Fikri çalışan bir ürüne dönüştürmeyi seven, farklı alanlarda deneyler yapan bir geliştiriciyim. Projelerimde özellikle **yapay zekâ**, **otomasyon**, **ödeme sistemleri**, **e-ticaret**, **bilgisayarlı görü** ve **kullanıcı odaklı web arayüzleri** üzerine çalışıyorum.
+Rather than producing demos only, I care about building functional workflows, clear user experiences, and systems that communicate their boundaries honestly. I believe the best way to learn new technologies is to build with them.
 
-Sadece demo üretmek yerine; çalışan akışları, anlaşılır kullanıcı deneyimini ve sistemlerin sınırlarını açıkça göstermeyi önemsiyorum. Yeni teknolojileri öğrenmenin en iyi yolunun gerçek problemler çözmek olduğuna inanıyorum.
-
-- 🤖 Yapay zekâ destekli iş ve karar destek araçları geliştiriyorum.
-- 💳 Stellar üzerinde doğrulanabilir ödeme akışlarını araştırıyorum.
-- 🛍️ E-ticaret ve yönetim panelleri tasarlıyorum.
-- 👁️ Python ve OpenCV ile bilgisayarlı görü projeleri deniyorum.
-- 🗣️ NLP, sesli asistanlar ve masaüstü otomasyonlarıyla ilgileniyorum.
+- 🤖 I build AI-powered business and decision-support tools.
+- 💳 I explore verifiable payment flows on Stellar.
+- 🛍️ I design e-commerce platforms and management panels.
+- 👁️ I experiment with computer vision projects using Python and OpenCV.
+- 🗣️ I'm interested in NLP, voice assistants, and desktop automation.
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💳 <a href="https://github.com/Shsha3245/one-click-checkout-rail">One-Click Checkout Rail</a></h3>
-      <p>Stellar Testnet üzerinde gerçek ve doğrulanabilir XLM ödeme akışları sunan checkout MVP'si. Mock, Testnet ve Live durumlarını birbirinden açıkça ayırır.</p>
+      <p>A checkout MVP providing real and verifiable XLM payment flows on the Stellar Testnet. It clearly separates Mock, Testnet, and Live modes.</p>
       <p><code>TypeScript</code> <code>Stellar</code> <code>Soroban</code> <code>Next.js</code> <code>Express</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/Shsha3245/StellarProHackathon">StellarProHackathon</a></h3>
-      <p>Stellar ekosistemi üzerine geliştirilmiş hackathon projesi ve ürün prototipleri. Web3 tabanlı finansal kullanım senaryolarını keşfetmeye odaklanır.</p>
+      <p>A hackathon project and collection of product prototypes built around the Stellar ecosystem. Focuses on exploring Web3-based financial use cases.</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Web3</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Shsha3245/aiAgency">aiAgency</a></h3>
-      <p>Departman verilerini bir araya getirip yerel Ollama modeliyle yönetici özetleri ve operasyon raporları oluşturan yapay zekâ destekli yönetim sistemi.</p>
+      <p>An AI-powered management system that combines departmental data and generates executive summaries and operational reports using a local Ollama model.</p>
       <p><code>Python</code> <code>Ollama</code> <code>CSV</code> <code>Desktop UI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/Shsha3245/Sevimler">Sevimler</a></h3>
-      <p>Türkçe bir kuruyemiş markası için geliştirilen modern e-ticaret platformu. Sepet, JWT kimlik doğrulama, stok güvenliği ve yönetim paneli içerir.</p>
+      <p>A modern e-commerce platform built for a Turkish nuts brand. Includes a shopping cart, JWT authentication, inventory protection, and an admin panel.</p>
       <p><code>React</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>JWT</code></p>
-      <p><a href="https://sevimler.vercel.app">🌐 Canlı demo</a></p>
+      <p><a href="https://sevimler.vercel.app">🌐 Live demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://github.com/Shsha3245/Virtual-Assistant-project">Virtual Assistant</a></h3>
-      <p>NLP ile kullanıcı niyetlerini yorumlayan, yanıtları seslendiren ve konuşma kayıtlarını SQLite üzerinde saklayan Python tabanlı asistan.</p>
+      <p>A Python-based assistant that interprets user intent with NLP, converts responses to speech, and stores conversation records in SQLite.</p>
       <p><code>Python</code> <code>NLP</code> <code>NLTK</code> <code>SQLite</code> <code>pyttsx3</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>👁️ <a href="https://github.com/Shsha3245/face-recognition-demo">Face Detection Demo</a></h3>
-      <p>Web kameradan gerçek zamanlı görüntü alıp OpenCV Haar Cascade ile yüz tespiti yapan hafif ve anlaşılır bir bilgisayarlı görü uygulaması.</p>
+      <p>A lightweight and easy-to-understand computer vision application that captures real-time webcam footage and detects faces using OpenCV Haar Cascade.</p>
       <p><code>Python</code> <code>OpenCV</code> <code>Computer Vision</code></p>
     </td>
   </tr>
 </table>
 
-### 🔎 Diğer Çalışmalarım
+### 🔎 Other Work
 
-- **[SAYIM](https://github.com/Shsha3245/SAYIM)** — TypeScript tabanlı web ürünü; [canlı versiyonu](https://sayim-plum.vercel.app) mevcut.
-- **[stellar-white-belt](https://github.com/Shsha3245/stellar-white-belt)** — Stellar ekosistemini öğrenmeye ve uygulamalı geliştirmeye yönelik çalışma.
-- **[BTK2026](https://github.com/Shsha3245/BTK2026)** — TypeScript tabanlı eğitim/uygulama projesi.
-- **[UniversityAnalysis](https://github.com/Shsha3245/UniversityAnalysis)** — Üniversite verilerini analiz etmeye yönelik proje.
-- **[Hackathon](https://github.com/Shsha3245/Hackathon)** — Hackathon odaklı web uygulaması çalışması.
+- **[SAYIM](https://github.com/Shsha3245/SAYIM)** — A TypeScript-based web product with a [live version](https://sayim-plum.vercel.app).
+- **[stellar-white-belt](https://github.com/Shsha3245/stellar-white-belt)** — A project focused on learning and hands-on development in the Stellar ecosystem.
+- **[BTK2026](https://github.com/Shsha3245/BTK2026)** — A TypeScript-based training and application project.
+- **[UniversityAnalysis](https://github.com/Shsha3245/UniversityAnalysis)** — A project for analyzing university data.
+- **[Hackathon](https://github.com/Shsha3245/Hackathon)** — A hackathon-focused web application project.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 
 <div align="center">
 
@@ -88,31 +87,31 @@ Sadece demo üretmek yerine; çalışan akışları, anlaşılır kullanıcı de
 
 </div>
 
-### Odak Alanlarım
+### Areas of Focus
 
 ```text
-Yapay Zekâ & NLP       ████████████████████  Ollama · NLTK · scikit-learn
-Backend & API          ███████████████████░  Python · FastAPI · Node.js
-Frontend & Ürün        ██████████████████░░  React · Next.js · TypeScript
-Veri & Otomasyon       ████████████████░░░░  SQL · CSV · SQLite · Web scraping
-Web3 & Ödemeler        ██████████████░░░░░░  Stellar · Soroban · Testnet
-Bilgisayarlı Görü      ████████████░░░░░░░░  Python · OpenCV
+AI & NLP               ████████████████████  Ollama · NLTK · scikit-learn
+Backend & APIs         ███████████████████░  Python · FastAPI · Node.js
+Frontend & Product     ██████████████████░░  React · Next.js · TypeScript
+Data & Automation      ████████████████░░░░  SQL · CSV · SQLite · Web scraping
+Web3 & Payments        ██████████████░░░░░░  Stellar · Soroban · Testnet
+Computer Vision        ████████████░░░░░░░░  Python · OpenCV
 ```
 
 ---
 
-## 📌 Geliştirme Yaklaşımım
+## 📌 My Development Approach
 
-> **Fikir → Prototip → Çalışan ürün → Geri bildirim → İyileştirme**
+> **Idea → Prototype → Working product → Feedback → Improvement**
 
-- Gerçek kullanım senaryolarını öncelemeye çalışırım.
-- Mock ve gerçek entegrasyon sınırlarını mümkün olduğunca açık tutarım.
-- Kullanıcı deneyimi kadar backend güvenilirliğine de önem veririm.
-- Öğrenirken küçük, ölçülebilir ve gösterilebilir projeler üretirim.
+- I try to prioritize real-world use cases.
+- I keep the boundaries between mock and real integrations as clear as possible.
+- I care about backend reliability as much as user experience.
+- While learning, I build small, measurable, and demonstrable projects.
 
 ---
 
-## 📊 GitHub Aktivitesi
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shsha3245&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
@@ -127,8 +126,8 @@ Bilgisayarlı Görü      ████████████░░░░░░
 
 <div align="center">
 
-### 🚧 Şu anda öğreniyor, üretiyor ve yeni fikirleri test ediyorum.
+### 🚧 Currently learning, building, and testing new ideas.
 
-<a href="https://github.com/Shsha3245?tab=repositories">Tüm projelerime göz at →</a>
+<a href="https://github.com/Shsha3245?tab=repositories">Explore all my projects →</a>
 
 </div>
